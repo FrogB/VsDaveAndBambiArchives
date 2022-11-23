@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fatass.png">
+<SubTexture name="idle0000" x="1" y="991" width="1189" height="988" frameX="0" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="idle0001" x="1192" y="991" width="1189" height="988" frameX="0" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="idle0002" x="2383" y="991" width="1189" height="988" frameX="0" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="down0000" x="1" y="1" width="1189" height="988" frameX="0" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="down0001" x="1192" y="1" width="1189" height="988" frameX="-2" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="down0002" x="2383" y="1" width="1189" height="988" frameX="-2" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="left0000" x="1192" y="1981" width="1189" height="988" frameX="-2" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="left0001" x="2383" y="1981" width="1189" height="988" frameX="-2" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="left0002" x="1" y="2971" width="1189" height="988" frameX="-2" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="right0000" x="1192" y="2971" width="1189" height="988" frameX="-2" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="right0001" x="2383" y="2971" width="1189" height="988" frameX="-2" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="right0002" x="3574" y="1" width="1189" height="988" frameX="-2" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="up0000" x="3574" y="991" width="1189" height="988" frameX="-2" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="up0001" x="3574" y="1981" width="1189" height="988" frameX="-2" frameY="0" frameWidth="1189" frameHeight="988"/>
+<SubTexture name="up0002" x="3574" y="2971" width="1189" height="988" frameX="-2" frameY="0" frameWidth="1189" frameHeight="988"/>
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				118,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				-156,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				-72,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				-57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				59
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "mini singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				75
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "mini singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				59
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "mini singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				59
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "mini singRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				60
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ohungi",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "decimal",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		171,
+		36
+	],
+	"camera_position": [
+		190,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

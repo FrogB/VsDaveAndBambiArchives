@@ -1,0 +1,41 @@
+{
+	"storyName": "bambi's corn maze...",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Screwed",
+			"bambi-angey",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Furiosity",
+			"dave-angey",
+			[
+				160,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				82,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bumbo Left"
+		},
+		{
+			"offsets": [
+				0,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bumbo Down"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bumbo Up"
+		},
+		{
+			"offsets": [
+				-160,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bumbo Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bumbo Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bumbo",
+	"position": [
+		-130,
+		250
+	],
+	"healthicon": "bumbo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		85,
+		239
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"RSOD",
+			"bombai",
+			[
+				226,
+				0,
+				0
+			]
+		],
+		[
+			"Ripple",
+			"ripple",
+			[
+				226,
+				0,
+				0
+			]
+		],
+		[
+			"Cheating 3",
+			"bambi-3d",
+			[
+				0,
+				193,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

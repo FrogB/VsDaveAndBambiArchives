@@ -1,0 +1,77 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Beta Maze",
+			"bambi",
+			[
+				0,
+				213,
+				0
+			]
+		],
+		[
+			"Old Blocked",
+			"bambiOld",
+			[
+				0,
+				213,
+				0
+			]
+		],
+		[
+			"Old Corn Theft",
+			"bambiOld",
+			[
+				0,
+				213,
+				0
+			]
+		],
+		[
+			"Old House",
+			"daveOld",
+			[
+				75,
+				0,
+				255
+			]
+		],
+		[
+			"Old Insanity",
+			"daveOld",
+			[
+				75,
+				0,
+				255
+			]
+		],
+		[
+			"Old Maze",
+			"bambiOld",
+			[
+				0,
+				215,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dave_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dave Sing Note DOWN0000" x="0" y="0" width="254" height="428" frameX="0" frameY="-1" frameWidth="257" frameHeight="429"/>
+	<SubTexture name="Dave Sing Note DOWN0001" x="0" y="0" width="254" height="428" frameX="0" frameY="-1" frameWidth="257" frameHeight="429"/>
+	<SubTexture name="Dave Sing Note DOWN0002" x="0" y="0" width="254" height="428" frameX="0" frameY="-1" frameWidth="257" frameHeight="429"/>
+	<SubTexture name="Dave Sing Note DOWN0003" x="254" y="0" width="254" height="428" frameX="0" frameY="0" frameWidth="257" frameHeight="429"/>
+	<SubTexture name="Dave Sing Note DOWN0004" x="254" y="0" width="254" height="428" frameX="0" frameY="0" frameWidth="257" frameHeight="429"/>
+	<SubTexture name="Dave Sing Note DOWN0005" x="254" y="0" width="254" height="428" frameX="0" frameY="0" frameWidth="257" frameHeight="429"/>
+	<SubTexture name="Dave Sing Note DOWN0006" x="508" y="0" width="253" height="428" frameX="-4" frameY="-1" frameWidth="257" frameHeight="429"/>
+	<SubTexture name="Dave Sing Note DOWN0007" x="508" y="0" width="253" height="428" frameX="-4" frameY="-1" frameWidth="257" frameHeight="429"/>
+	<SubTexture name="Dave Sing Note DOWN0008" x="508" y="0" width="253" height="428" frameX="-4" frameY="-1" frameWidth="257" frameHeight="429"/>
+	<SubTexture name="Dave Sing Note LEFT0000" x="761" y="0" width="250" height="458" frameX="-20" frameY="-5" frameWidth="285" frameHeight="464"/>
+	<SubTexture name="Dave Sing Note LEFT0001" x="761" y="0" width="250" height="458" frameX="-20" frameY="-5" frameWidth="285" frameHeight="464"/>
+	<SubTexture name="Dave Sing Note LEFT0002" x="761" y="0" width="250" height="458" frameX="-20" frameY="-5" frameWidth="285" frameHeight="464"/>
+	<SubTexture name="Dave Sing Note LEFT0003" x="1011" y="0" width="264" height="461" frameX="-11" frameY="-2" frameWidth="285" frameHeight="464"/>
+	<SubTexture name="Dave Sing Note LEFT0004" x="1011" y="0" width="264" height="461" frameX="-11" frameY="-2" frameWidth="285" frameHeight="464"/>
+	<SubTexture name="Dave Sing Note LEFT0005" x="1011" y="0" width="264" height="461" frameX="-11" frameY="-2" frameWidth="285" frameHeight="464"/>
+	<SubTexture name="Dave Sing Note LEFT0006" x="1275" y="0" width="285" height="464"/>
+	<SubTexture name="Dave Sing Note LEFT0007" x="1275" y="0" width="285" height="464"/>
+	<SubTexture name="Dave Sing Note LEFT0008" x="1275" y="0" width="285" height="464"/>
+	<SubTexture name="Dave Sing Note RIGHT0000" x="1560" y="0" width="283" height="457" frameX="-1" frameY="0" frameWidth="299" frameHeight="457"/>
+	<SubTexture name="Dave Sing Note RIGHT0001" x="1560" y="0" width="283" height="457" frameX="-1" frameY="0" frameWidth="299" frameHeight="457"/>
+	<SubTexture name="Dave Sing Note RIGHT0002" x="1560" y="0" width="283" height="457" frameX="-1" frameY="0" frameWidth="299" frameHeight="457"/>
+	<SubTexture name="Dave Sing Note RIGHT0003" x="0" y="464" width="294" height="456" frameX="0" frameY="-1" frameWidth="299" frameHeight="457"/>
+	<SubTexture name="Dave Sing Note RIGHT0004" x="0" y="464" width="294" height="456" frameX="0" frameY="-1" frameWidth="299" frameHeight="457"/>
+	<SubTexture name="Dave Sing Note RIGHT0005" x="0" y="464" width="294" height="456" frameX="0" frameY="-1" frameWidth="299" frameHeight="457"/>
+	<SubTexture name="Dave Sing Note RIGHT0006" x="294" y="464" width="299" height="456" frameX="0" frameY="-1" frameWidth="299" frameHeight="457"/>
+	<SubTexture name="Dave Sing Note RIGHT0007" x="294" y="464" width="299" height="456" frameX="0" frameY="-1" frameWidth="299" frameHeight="457"/>
+	<SubTexture name="Dave Sing Note RIGHT0008" x="294" y="464" width="299" height="456" frameX="0" frameY="-1" frameWidth="299" frameHeight="457"/>
+	<SubTexture name="Dave Sing Note UP0000" x="593" y="464" width="243" height="463" frameX="-28" frameY="-1" frameWidth="271" frameHeight="467"/>
+	<SubTexture name="Dave Sing Note UP0001" x="593" y="464" width="243" height="463" frameX="-28" frameY="-1" frameWidth="271" frameHeight="467"/>
+	<SubTexture name="Dave Sing Note UP0002" x="593" y="464" width="243" height="463" frameX="-28" frameY="-1" frameWidth="271" frameHeight="467"/>
+	<SubTexture name="Dave Sing Note UP0003" x="836" y="464" width="252" height="464" frameX="-6" frameY="0" frameWidth="271" frameHeight="467"/>
+	<SubTexture name="Dave Sing Note UP0004" x="836" y="464" width="252" height="464" frameX="-6" frameY="0" frameWidth="271" frameHeight="467"/>
+	<SubTexture name="Dave Sing Note UP0005" x="836" y="464" width="252" height="464" frameX="-6" frameY="0" frameWidth="271" frameHeight="467"/>
+	<SubTexture name="Dave Sing Note UP0006" x="1088" y="464" width="258" height="464" frameX="0" frameY="-3" frameWidth="271" frameHeight="467"/>
+	<SubTexture name="Dave Sing Note UP0007" x="1088" y="464" width="258" height="464" frameX="0" frameY="-3" frameWidth="271" frameHeight="467"/>
+	<SubTexture name="Dave Sing Note UP0008" x="1088" y="464" width="258" height="464" frameX="0" frameY="-3" frameWidth="271" frameHeight="467"/>
+	<SubTexture name="Dave idle dance0000" x="1346" y="464" width="270" height="434" frameX="0" frameY="-23" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0001" x="1346" y="464" width="270" height="434" frameX="0" frameY="-23" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0002" x="1346" y="464" width="270" height="434" frameX="0" frameY="-23" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0003" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0004" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0005" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0006" x="0" y="928" width="245" height="456" frameX="0" frameY="0" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0007" x="0" y="928" width="245" height="456" frameX="0" frameY="0" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0008" x="0" y="928" width="245" height="456" frameX="0" frameY="0" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0009" x="245" y="928" width="245" height="456" frameX="-1" frameY="-2" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0010" x="245" y="928" width="245" height="456" frameX="-1" frameY="-2" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0011" x="245" y="928" width="245" height="456" frameX="-1" frameY="-2" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0012" x="0" y="928" width="245" height="456" frameX="0" frameY="0" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0013" x="0" y="928" width="245" height="456" frameX="0" frameY="0" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0014" x="0" y="928" width="245" height="456" frameX="0" frameY="0" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0015" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0016" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0017" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0018" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0019" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0020" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0021" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0022" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0023" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0024" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+	<SubTexture name="Dave idle dance0025" x="1616" y="464" width="246" height="447" frameX="0" frameY="-8" frameWidth="270" frameHeight="458"/>
+</TextureAtlas>

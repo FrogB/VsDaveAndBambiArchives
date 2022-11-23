@@ -1,0 +1,5 @@
+example: ruv makes da screen shake when he sing
+
+Value 1:
+0 = Turn it off
+1 = TURN IT ON!!!
