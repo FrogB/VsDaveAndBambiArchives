@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-182,
+				-110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				140,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				90,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				-80,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				-290,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BanjexGuitar",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "banjex",
+	"flip_x": false,
+	"healthbar_colors": [
+		239,
+		0,
+		137
+	],
+	"camera_position": [
+		-80,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

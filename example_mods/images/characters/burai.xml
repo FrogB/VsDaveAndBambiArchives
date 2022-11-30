@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="burai.png"><SubTexture name="burai idle0000" x="2827" y="534" width="539" height="476" frameX="-17" frameY="-38" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0001" x="1147" y="2672" width="580" height="524" frameX="-20" frameY="-31" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0002" x="571" y="2672" width="576" height="529" frameX="-24" frameY="-26" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0003" x="0" y="2672" width="571" height="533" frameX="-29" frameY="-22" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0004" x="1132" y="0" width="569" height="534" frameX="-31" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0005" x="0" y="0" width="567" height="535" frameX="-33" frameY="-20" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0006" x="567" y="0" width="565" height="535" frameX="-35" frameY="-20" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0007" x="0" y="535" width="564" height="535" frameX="-36" frameY="-20" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0008" x="1132" y="534" width="563" height="534" frameX="-37" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0009" x="564" y="535" width="562" height="534" frameX="-38" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0010" x="0" y="1070" width="562" height="534" frameX="-38" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0011" x="562" y="1070" width="562" height="534" frameX="-38" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0012" x="1124" y="1070" width="562" height="534" frameX="-38" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0013" x="1701" y="0" width="562" height="534" frameX="-38" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0014" x="0" y="1604" width="563" height="534" frameX="-37" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0015" x="563" y="1604" width="563" height="534" frameX="-37" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0016" x="1126" y="1604" width="563" height="534" frameX="-37" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0017" x="1689" y="1604" width="564" height="534" frameX="-36" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0018" x="2263" y="0" width="564" height="534" frameX="-36" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0019" x="2263" y="534" width="564" height="534" frameX="-36" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0020" x="2263" y="1068" width="564" height="534" frameX="-36" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0021" x="2263" y="1602" width="564" height="534" frameX="-36" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0022" x="0" y="2138" width="564" height="534" frameX="-36" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0023" x="564" y="2138" width="564" height="534" frameX="-36" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0024" x="1128" y="2138" width="564" height="534" frameX="-36" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0025" x="1692" y="2138" width="564" height="534" frameX="-36" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0026" x="2256" y="2138" width="564" height="534" frameX="-36" frameY="-21" frameWidth="600" frameHeight="555" />
+<SubTexture name="burai idle0027" x="2827" y="0" width="564" height="534" frameX="-36" frameY="-21" frameWidth="600" frameHeight="555" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				109,
+				-110
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				120,
+				-120
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				120,
+				-140
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				120,
+				-70
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				100,
+				-80
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Banjex_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "banjex",
+	"flip_x": false,
+	"healthbar_colors": [
+		239,
+		0,
+		137
+	],
+	"camera_position": [
+		-80,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}
