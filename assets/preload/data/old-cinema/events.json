@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "banjex",
+		"player3": null,
+		"events": [
+			[
+				21093.75,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				21281.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				21562.5,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				72500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						"0"
+					]
+				]
+			],
+			[
+				72702.7027027026,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						"0"
+					]
+				]
+			],
+			[
+				72972.9729729729,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						"0"
+					]
+				]
+			],
+			[
+				73513.5135135135,
+				[
+					[
+						"Change Character",
+						"1",
+						"banjex-high"
+					]
+				]
+			],
+			[
+				73572.6351351351,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						"0"
+					]
+				]
+			],
+			[
+				142702.702702703,
+				[
+					[
+						"Change Character",
+						"1",
+						"banjex-guitar"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 222,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "cinema"
+	}
+}

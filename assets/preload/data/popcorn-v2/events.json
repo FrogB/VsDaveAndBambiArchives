@@ -1,0 +1,126 @@
+{
+	"song": {
+		"events": [
+			[
+				11931.8181818182,
+				[
+					[
+						"sing shake",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				11965.9090909091,
+				[
+					[
+						"toggle that stupid health drain",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mareloangry"
+					]
+				]
+			],
+			[
+				13068.1818181818,
+				[
+					[
+						"toggle that stupid health drain",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				13085.2272727273,
+				[
+					[
+						"sing shake",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				13090.9090909091,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi"
+					]
+				]
+			],
+			[
+				29386.3636363637,
+				[
+					[
+						"sing shake",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				29409.0909090909,
+				[
+					[
+						"toggle that stupid health drain",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				29454.5454545455,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"mareloangry"
+					]
+				]
+			],
+			[
+				30545.4545454546,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi"
+					]
+				]
+			],
+			[
+				30613.6363636364,
+				[
+					[
+						"sing shake",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				30659.0909090909,
+				[
+					[
+						"toggle that stupid health drain",
+						"off",
+						""
+					]
+				]
+			]
+		]
+	}
+}
