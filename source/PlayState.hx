@@ -3522,7 +3522,7 @@ class PlayState extends MusicBeatState
 		if (curSong.toLowerCase() == 'furiosity')
 			{
 				screenshader.shader.uampmul.value[0] = 0;
-				screenshader.Enabled = false;
+				screenshader.Enabled = true;
 			}
 		#end
 
